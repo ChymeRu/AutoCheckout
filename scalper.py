@@ -3,7 +3,7 @@ import winsound
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-browser = webdriver.Chrome('/Users/rukes/AutoCheckout/chromedriver')
+browser = webdriver.Chrome('/Users/rukes/Documents/GitHub/AutoCheckout/chromedriver')
 
 #6900xt page
 browser.get('https://www.amd.com/en/direct-buy/5458372200/us')
